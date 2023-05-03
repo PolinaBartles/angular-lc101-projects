@@ -1,1 +1,4 @@
 
+hr .dotted {
+  border: 1px dotted red;
+}
