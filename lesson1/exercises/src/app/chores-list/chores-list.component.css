@@ -1,0 +1,13 @@
+.chores {
+  color: rgb(101, 4, 4);
+  font-size: 1.3 vw;
+}
+
+h3 {
+  text-decoration: underline;;
+}
+
+.chores li {
+  font-style: italic;
+}
+
